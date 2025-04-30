@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análise de Laptops</title>
+</head>
+<body>
+    <h1>Análise do Mercado de Laptops</h1>
+
+    {% for graph in graphs %}
+        <div>
+            <img src="{{ url_for('static', filename=graph) }}" alt="Gráfico" style="width:100%; max-width:800px;">
+        </div>
+    {% endfor %}
+</body>
+</html>
