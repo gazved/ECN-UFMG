@@ -1,0 +1,533 @@
+brand_name,price,rating,processor_gen,processor_brand,processor_segment,CPU_mark,CPU_performance,Graphic_card_memory,graphic_card_name,graphic_card_num,Core,threads,display_inches,ram_storage,ram_type,operating_system,SSD_storage
+hp,49490,70,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+xiaomi,102990,78,14th,intel,i9,14900HX,maximum performance,8 GB,nvidia geforce,4060,24,32,other,16,DDR5,11,1 TB SSD
+hp,81490,73,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,3050,8,16,other,16,DDR5,11,1 TB SSD
+asus,49990,64,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,52990,66,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,61990,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,other,16,DDR4,11,512 GB SSD
+hp,56490,69,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR5,11,512 GB SSD
+acer,77490,59,13th,intel,i5,13420H,maximum performance,6 GB,nvidia geforce,other,8,12,15.6,16,DDR5,11,512 GB SSD
+lenovo,59499,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR5,11,512 GB SSD
+hp,65990,64,13th,intel,i5,13420H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR4,11,512 GB SSD
+lenovo,449990,89,13th,intel,i9,13980HX,maximum performance,16 GB,nvidia geforce,other,24,32,16,32,DDR5,11,other
+asus,74990,71,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,1 TB SSD
+hp,114990,78,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,1 TB SSD
+lenovo,104990,60,13th,intel,i7,13620H,maximum performance,8 GB,nvidia geforce,4060,,,15.6,16,DDR5,11,512 GB SSD
+hp,89990,64,13th,intel,i5,13420H,maximum performance,6 GB,nvidia geforce,other,8,12,other,16,DDR5,11,512 GB SSD
+hp,67990,62,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+asus,59990,66,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+dell,79990,68,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,1 TB SSD
+asus,84990,74,6th,amd,9,6900HS​,high efficiency,4 GB,nvidia geforce,3050,8,16,other,16,other,11,512 GB SSD
+msi,599990,87,14th,intel,i9,14900HX,maximum performance,16 GB,nvidia geforce,other,,,other,32,DDR5,11,other
+lenovo,149990,69,,intel,,14900HX,maximum performance,8 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+hp,66990,68,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR4,11,1 TB SSD
+msi,45990,61,7th,amd,5,7535HS,high efficiency,4 GB,amd radeon,other,6,12,15.6,8,DDR5,11,512 GB SSD
+hp,84990,72,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,3050,8,16,other,16,DDR5,11,512 GB SSD
+acer,52990,66,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR4,11,512 GB SSD
+asus,48990,62,11th,intel,i5,11260H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,52499,68,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,60200,71,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,16,DDR4,11,512 GB SSD
+lenovo,54990,65,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR5,11,512 GB SSD
+asus,86990,73,7th,amd,7,7735HS,high efficiency,6 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,512 GB SSD
+hp,44990,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,68990,68,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+hp,104990,73,6th,amd,7,6800H,maximum performance,8 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,89990,75,6th,amd,9,6900HS​,high efficiency,4 GB,nvidia geforce,3050,8,16,other,16,other,11,1 TB SSD
+acer,52990,68,12th,intel,i5,1240P,Performance core,4 GB,nvidia geforce,2050,12,16,15.6,16,DDR4,11,512 GB SSD
+asus,46990,62,5th,amd,5,5600H,maximum performance,Integrated,amd radeon,other,6,12,16,8,DDR4,11,512 GB SSD
+dell,69890,68,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,15.6,16,DDR5,11,512 GB SSD
+hp,74490,62,13th,intel,i5,13420H,maximum performance,6,nvidia geforce,other,8,12,15.6,16,DDR4,11,512 GB SSD
+lenovo,349990,92,14th,intel,i9,14900HX,maximum performance,16 GB,nvidia geforce,other,24,32,16,64,DDR5,11,other
+asus,329990,92,14th,intel,i9,14900HX,maximum performance,16 GB,nvidia geforce,other,24,32,16,32,DDR5,11,other
+hp,135999,83,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,32,DDR5,11,1 TB SSD
+lenovo,102990,65,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,other,14,,15.6,16,DDR5,11,512 GB SSD
+lenovo,69990,66,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,106590,75,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+dell,99990,70,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,other,14,,15.6,16,DDR5,11,1 TB SSD
+lenovo,63889,60,6th,amd,5,6600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,54990,66,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+acer,49990,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,8,DDR4,11,512 GB SSD
+asus,69990,66,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,45990,57,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,76990,66,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,3050,8,12,15.6,16,DDR5,11,512 GB SSD
+lenovo,79990,70,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,512 GB SSD
+lenovo,89999,60,13th,intel,i5,13420H,maximum performance,8 GB,nvidia geforce,4060,8,12,15.6,8,DDR5,11,512 GB SSD
+asus,76990,69,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,other,8,12,16,16,DDR4,11,512 GB SSD
+asus,57990,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,16,8,DDR4,11,512 GB SSD
+lenovo,32500,50,12th,intel,i3,1215U,ultra-low power,Integrated,Intel Integrated,other,6,8,15.6,8,DDR4,,512 GB SSD
+lenovo,172990,77,13th,intel,i7,13700H,maximum performance,16 GB,nvidia geforce,other,14,20,16,32,DDR5,11,1 TB SSD
+hp,67999,66,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+acer,69990,68,7th,amd,7,7735HS,high efficiency,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,512 GB SSD
+msi,94990,74,12th,intel,i7,12650H,maximum performance,8 GB,nvidia geforce,4060,10,16,15.6,16,DDR5,11,1 TB SSD
+msi,489883,98,13th,intel,i9,13900H,maximum performance,12 GB,nvidia geforce,other,14,20,other,64,DDR5,11,other
+dell,99990,75,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,1 TB SSD
+asus,51990,62,5th,amd,5,5600H,maximum performance,Integrated,amd radeon,other,6,12,16,16,DDR4,11,512 GB SSD
+msi,229990,83,,intel,Ultra 7,155H,maximum performance,8 GB,nvidia geforce,4060,16,22,15.6,32,DDR5,11,1 TB SSD
+msi,72990,69,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR4,11,512 GB SSD
+msi,78990,70,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+msi,91990,71,7th,amd,5,7535HS,high efficiency,6 GB,nvidia geforce,other,6,12,15.6,16,DDR4,11,512 GB SSD
+msi,103990,73,7th,amd,7,7735HS,high efficiency,6 GB,nvidia geforce,other,8,16,15.6,16,DDR4,11,1 TB SSD
+msi,111990,75,7th,amd,7,7735HS,high efficiency,8 GB,nvidia geforce,4060,8,16,15.6,16,DDR4,11,1 TB SSD
+msi,279990,86,,intel,Ultra 9,185H,maximum performance,8 GB,nvidia geforce,4060,16,22,16,32,DDR5,11,other
+msi,225849,88,14th,intel,i7,14700HX,maximum performance,8 GB,nvidia geforce,other,20,28,16,32,DDR5,11,1 TB SSD
+msi,319387,92,14th,intel,i9,14900HX,maximum performance,12 GB,nvidia geforce,other,24,32,other,32,DDR5,11,other
+msi,199990,80,,intel,Ultra 7,155H,maximum performance,8 GB,nvidia geforce,4060,16,22,16,32,DDR5,11,1 TB SSD
+msi,229990,90,14th,intel,i9,14900HX,maximum performance,8 GB,nvidia geforce,other,24,32,other,32,DDR5,11,other
+lenovo,61990,68,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR5,11,512 GB SSD
+msi,169990,81,,intel,Ultra 7,155H,maximum performance,8 GB,nvidia geforce,4060,16,22,16,32,other,11,1 TB SSD
+msi,159990,80,,intel,Ultra 7,155H,maximum performance,6 GB,nvidia geforce,other,16,22,16,32,other,11,1 TB SSD
+asus,289990,91,14th,intel,i9,14900HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,other
+asus,189990,73,,intel,Ultra 7,155H,maximum performance,8 GB,nvidia geforce,other,16,22,16,16,other,11,1 TB SSD
+asus,65990,63,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,other,16,other,11,512 GB SSD
+dell,79990,66,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,512 GB SSD
+acer,70990,61,13th,intel,i5,13420H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR5,11,1 TB SSD
+hp,115999,75,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+dell,101990,69,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,3050,14,,15.6,16,DDR5,11,1 TB SSD
+lenovo,84990,66,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,512 GB SSD
+hp,58997,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,8,DDR4,11,512 GB SSD
+asus,51990,59,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,other,8,DDR4,11,512 GB SSD
+acer,73990,60,13th,intel,i5,13420H,maximum performance,6 GB,nvidia geforce,3050,8,12,15.6,16,DDR5,11,512 GB SSD
+dell,83990,68,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,1 TB SSD
+dell,187490,77,13th,intel,i9,13900HX,maximum performance,8 GB,nvidia geforce,other,24,32,16,16,DDR5,11,1 TB SSD
+acer,199999,74,,intel,Ultra 9,185H,maximum performance,8 GB,nvidia geforce,other,16,22,16,32,other,11,other
+acer,149900,69,8th,amd,7,8845HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,1 TB SSD
+lenovo,67990,61,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+acer,46990,60,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,98790,71,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,15.6,16,DDR5,11,512 GB SSD
+lenovo,50390,62,5th,amd,5,5500H,maximum performance,4 GB,nvidia geforce,2050,4,8,15.6,8,DDR4,11,512 GB SSD
+lenovo,58900,64,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+hp,93990,73,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,other,10,16,15.6,16,DDR4,11,512 GB SSD
+hp,58999,60,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,8,DDR4,11,512 GB SSD
+gigabyte,72990,70,12th,intel,i5,12500H,maximum performance,6 GB,nvidia geforce,other,12,16,15.6,8,DDR4,11,512 GB SSD
+hp,52850,65,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+lenovo,52890,65,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,16,DDR4,11,512 GB SSD
+hp,99990,72,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+msi,184990,77,13th,intel,i7,13700HX,maximum performance,8 GB,nvidia geforce,other,16,24,16,16,DDR5,11,1 TB SSD
+lenovo,132190,79,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,1 TB SSD
+asus,89990,64,13th,intel,i5,13500H,maximum performance,6 GB,nvidia geforce,other,12,16,16,16,DDR4,11,512 GB SSD
+lenovo,66990,64,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,11,512 GB SSD
+asus,73990,60,5th,amd,7,5800HS,high efficiency,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+lenovo,48490,59,5th,amd,5,5500H,maximum performance,4 GB,nvidia geforce,2050,4,8,15.6,8,DDR4,11,512 GB SSD
+acer,59990,61,13th,intel,i5,13420H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR4,11,512 GB SSD
+acer,64999,60,13th,intel,i5,13420H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,16,DDR5,11,512 GB SSD
+acer,62999,59,13th,intel,i5,13420H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,8,DDR5,11,512 GB SSD
+asus,71990,66,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,other,8,DDR5,11,512 GB SSD
+hp,165899,75,13th,intel,i7,13700HX,maximum performance,8 GB,nvidia geforce,4060,16,24,other,16,DDR5,11,512 GB SSD
+lenovo,51990,62,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,64990,62,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,other,16,DDR4,11,512 GB SSD
+lenovo,164190,81,7th,amd,7,7745HX,maximum performance,8 GB,nvidia geforce,other,8,16,16,16,DDR5,11,1 TB SSD
+lenovo,294990,84,13th,intel,i9,13900HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+lenovo,103395,74,5th,amd,7,5800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,11,512 GB SSD
+lenovo,139190,74,13th,intel,i7,13620H,maximum performance,8 GB,nvidia geforce,4060,10,16,16,16,DDR5,11,1 TB SSD
+msi,79990,65,7th,amd,7,7735HS,high efficiency,4 GB,amd radeon,other,8,16,15.6,16,DDR5,11,512 GB SSD
+acer,59990,61,13th,intel,i5,1335U,ultra-low power,4 GB,nvidia geforce,2050,10,12,15.6,16,DDR4,11,512 GB SSD
+lenovo,61712,57,6th,amd,5,6600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,50712,63,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,2050,4,8,15.6,8,DDR4,11,512 GB SSD
+asus,83990,66,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,1 TB SSD
+lenovo,46490,57,5th,amd,5,5500H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,8,DDR4,11,512 GB SSD
+asus,94990,65,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,16,16,DDR5,11,1 TB SSD
+lenovo,44490,59,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,15.6,8,DDR4,11,512 GB SSD
+asus,92990,64,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,16,16,DDR5,11,512 GB SSD
+asus,79990,68,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR5,11,512 GB SSD
+hp,58990,62,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,47990,60,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,2050,4,8,15.6,8,DDR4,11,512 GB SSD
+lenovo,114190,75,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,other,8,16,16,16,DDR5,11,512 GB SSD
+hp,47990,63,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,52990,63,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,2050,4,8,15.6,8,DDR4,11,512 GB SSD
+lenovo,128990,78,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,512 GB SSD
+lenovo,67990,63,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+hp,98000,66,13th,intel,i5,13500H,maximum performance,6 GB,nvidia geforce,other,12,16,15.6,16,DDR4,11,512 GB SSD
+acer,40990,46,13th,intel,i3,1305U,ultra-low power,Integrated,Intel Integrated,other,5,6,15.6,8,DDR5,11,512 GB SSD
+lenovo,130990,79,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,512 GB SSD
+acer,78990,56,13th,intel,i5,13420H,maximum performance,6 GB,nvidia geforce,other,8,12,15.6,8,DDR5,11,512 GB SSD
+asus,72990,66,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,other,11,512 GB SSD
+hp,62500,63,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+asus,73990,60,5th,amd,7,5800HS,high efficiency,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,1 TB SSD
+asus,69990,59,5th,amd,5,5600HS,high efficiency,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,1 TB SSD
+gigabyte,71990,64,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,other,8,12,15.6,16,other,11,512 GB SSD
+lenovo,399999,83,13th,intel,i9,13980HX,maximum performance,16 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+asus,86990,60,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,20,,15.6,16,DDR5,11,1 TB SSD
+asus,99990,69,12th,intel,i7,12650H,maximum performance,8,nvidia geforce,other,10,16,16,16,DDR4,11,512 GB SSD
+gigabyte,130000,68,13th,intel,i7,13620H,maximum performance,8 GB,nvidia geforce,4060,10,16,16,16,DDR5,11,512 GB SSD
+gigabyte,86990,69,12th,intel,i5,12500H,maximum performance,8 GB,nvidia geforce,4060,12,16,15.6,8,DDR5,11,512 GB SSD
+lenovo,44990,52,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,15.6,8,DDR4,,512 GB SSD
+asus,76990,64,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,other,8,12,16,16,DDR4,11,512 GB SSD
+msi,62990,68,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+msi,85990,71,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,512 GB SSD
+hp,85990,71,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,16,DDR4,11,1 TB SSD
+asus,68990,59,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,54990,61,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+asus,52990,64,11th,intel,i5,11260H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,129990,65,13th,intel,i7,13700HX,maximum performance,8 GB,nvidia geforce,4060,16,24,other,16,DDR5,11,512 GB SSD
+lenovo,48990,61,11th,intel,i5,1135G7,Graphics level,Integrated,Intel Integrated,other,4,8,15.6,16,DDR4,11,512 GB SSD
+hp,80490,72,7th,amd,7,7840HS,high efficiency,4 GB,nvidia geforce,3050,8,16,other,16,DDR5,11,1 TB SSD
+hp,99999,66,13th,intel,i5,13500H,maximum performance,6 GB,nvidia geforce,other,12,16,15.6,16,DDR4,11,512 GB SSD
+hp,108490,68,13th,intel,i7,13700H,maximum performance,6 GB,nvidia geforce,other,14,20,15.6,16,DDR4,11,512 GB SSD
+hp,50990,64,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+gigabyte,149990,78,12th,intel,i5,12500H,maximum performance,8 GB,nvidia geforce,other,12,16,15.6,16,DDR5,11,1 TB SSD
+hp,89990,68,13th,intel,i5,13420H,maximum performance,6 GB,nvidia geforce,other,8,12,other,16,DDR5,11,512 GB SSD
+asus,59990,62,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,54559,65,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,16,DDR4,11,512 GB SSD
+asus,66990,68,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,2050,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,79990,70,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,16,DDR4,11,512 GB SSD
+lenovo,90990,68,12th,intel,i5,12450H,maximum performance,8 GB,nvidia geforce,4060,8,12,15.6,16,DDR5,11,512 GB SSD
+lenovo,83990,66,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,other,8,12,15.6,16,DDR5,11,512 GB SSD
+lenovo,92990,70,7th,amd,7,7840HS,high efficiency,6 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,512 GB SSD
+lenovo,101990,71,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,15.6,16,DDR5,11,512 GB SSD
+lenovo,100190,63,13th,intel,i7,13620H,maximum performance,6 GB,nvidia geforce,other,10,16,15.6,16,DDR5,11,512 GB SSD
+msi,329990,88,13th,intel,i9,13980HX,maximum performance,16 GB,nvidia geforce,other,24,32,other,32,DDR5,11,other
+hp,113090,71,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,512 GB SSD
+acer,62990,61,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,148990,78,13th,intel,i9,13900H,maximum performance,8 GB,nvidia geforce,4060,14,20,16,32,DDR5,11,1 TB SSD
+acer,86990,68,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,15.6,16,DDR4,11,512 GB SSD
+dell,322190,84,13th,intel,i9,13900HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+dell,453990,84,13th,intel,i9,13900HK,unlocked,16 GB,nvidia geforce,other,14,20,16,32,other,11,other
+dell,199290,81,7th,amd,7,7745HX,maximum performance,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,1 TB SSD
+dell,448690,83,13th,intel,i9,13980HX,maximum performance,16 GB,nvidia geforce,other,24,32,other,64,other,11,1 TB SSD
+dell,269990,91,7th,amd,9,7845HX,maximum performance,12 GB,nvidia geforce,other,12,24,16,32,DDR5,11,other
+acer,129990,77,7th,amd,7,7840HS,high efficiency,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,512 GB SSD
+asus,73990,70,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,other,16,DDR5,11,512 GB SSD
+asus,89990,66,6th,amd,7,7735HS,high efficiency,6 GB,nvidia geforce,3050,8,16,other,16,DDR5,11,512 GB SSD
+asus,99990,71,12th,intel,i7,12650H,maximum performance,8 GB,nvidia geforce,4060,10,16,16,16,DDR4,11,512 GB SSD
+acer,69999,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+dell,76490,69,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,15.6,16,DDR5,11,1 TB SSD
+msi,69990,62,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR5,11,512 GB SSD
+lenovo,63990,62,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,52500,65,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,16,DDR4,11,512 GB SSD
+lenovo,51990,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,52990,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR4,11,1 TB SSD
+asus,125990,79,7th,amd,9,7940HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+ninkear,79999,73,7th,amd,7,7735HS,high efficiency,Integrated,amd radeon,other,8,16,16,32,DDR5,11,other
+lenovo,64190,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,52500,65,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,16,DDR4,11,512 GB SSD
+asus,89990,69,12th,intel,i5,12450H,maximum performance,6 GB,nvidia geforce,other,8,12,16,16,DDR4,11,512 GB SSD
+asus,139990,79,7th,amd,9,7940HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,52990,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR4,11,1 TB SSD
+ninkear,79999,73,7th,amd,7,7735HS,high efficiency,Integrated,amd radeon,other,8,16,16,32,DDR5,11,other
+lenovo,64190,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,86990,72,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,other,10,16,16,16,DDR4,11,512 GB SSD
+msi,111990,73,12th,intel,i7,12650H,maximum performance,8 GB,nvidia geforce,4060,10,16,15.6,16,DDR5,11,512 GB SSD
+msi,83500,64,10th,intel,i7,10750H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,10,512 GB SSD
+msi,74990,65,7th,amd,5,7535HS,high efficiency,6 GB,nvidia geforce,3050,6,12,15.6,16,DDR5,11,512 GB SSD
+msi,56990,63,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,16,DDR5,11,512 GB SSD
+msi,53990,61,7th,amd,5,7535HS,high efficiency,4 GB,nvidia geforce,2050,6,12,15.6,8,DDR5,11,512 GB SSD
+asus,66990,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,2050,8,12,16,8,DDR4,11,512 GB SSD
+acer,89990,68,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,other,10,16,15.6,16,DDR4,11,512 GB SSD
+lenovo,157544,69,13th,intel,i5,13500H,maximum performance,8 GB,nvidia geforce,4060,12,16,16,16,DDR5,11,1 TB SSD
+lenovo,286200,82,13th,intel,i9,13900HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+lenovo,143589,75,7th,amd,7,7745HX,maximum performance,8 GB,nvidia geforce,4060,8,16,16,16,DDR5,11,1 TB SSD
+lenovo,30999,50,12th,intel,i3,1215U,ultra-low power,Integrated,Intel Integrated,other,6,8,15.6,8,DDR4,,512 GB SSD
+hp,57999,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+dell,199900,71,13th,intel,i7,13620H,maximum performance,6 GB,nvidia geforce,other,10,16,other,16,other,11,1 TB SSD
+lenovo,34990,50,12th,intel,i3,1215U,ultra-low power,Integrated,Intel Integrated,other,6,8,15.6,8,DDR4,11,512 GB SSD
+lenovo,45900,52,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,15.6,8,DDR4,11,512 GB SSD
+dell,157990,74,13th,intel,i7,13650HX,maximum performance,8 GB,nvidia geforce,4060,14,,16,16,DDR5,11,1 TB SSD
+hp,56999,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+dell,166490,78,13th,intel,i7,13650HX,maximum performance,8 GB,nvidia geforce,4060,14,,16,32,DDR5,11,1 TB SSD
+lenovo,172990,77,13th,intel,i7,13700H,maximum performance,16 GB,nvidia geforce,other,14,20,16,32,DDR5,11,1 TB SSD
+acer,54990,63,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,1650,8,12,15.6,8,DDR4,11,512 GB SSD
+dell,149999,71,13th,intel,i7,13650HX,maximum performance,8 GB,nvidia geforce,4060,14,,15.6,16,DDR5,11,512 GB SSD
+dell,122638,69,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,other,14,,15.6,16,DDR5,11,512 GB SSD
+dell,129990,70,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,other,14,,15.6,16,DDR5,11,512 GB SSD
+dell,178490,75,13th,intel,i9,13900HX,maximum performance,8 GB,nvidia geforce,4060,24,32,16,16,DDR5,11,1 TB SSD
+dell,81402,64,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,8,DDR5,11,512 GB SSD
+dell,79990,66,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,512 GB SSD
+asus,128999,75,7th,amd,9,7940HS,high efficiency,6 GB,nvidia geforce,other,8,16,15.6,16,DDR4,11,1 TB SSD
+asus,195967,86,7th,amd,9,7940HS,high efficiency,8 GB,nvidia geforce,4060,8,16,other,32,DDR5,11,1 TB SSD
+acer,69990,62,13th,intel,i7,1355U,ultra-low power,4 GB,nvidia geforce,2050,10,12,other,8,DDR4,11,512 GB SSD
+asus,154990,80,7th,amd,9,7940HS,high efficiency,8 GB,nvidia geforce,4060,8,16,15.6,16,DDR5,11,1 TB SSD
+acer,60890,61,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+asus,251041,86,7th,amd,9,7940HS,high efficiency,12 GB,nvidia geforce,other,8,16,other,32,DDR5,11,1 TB SSD
+asus,145800,77,7th,amd,9,7940HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,114990,71,7th,amd,7,7735HS,high efficiency,6 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,106990,70,13th,intel,i5,13450HX,maximum performance,6 GB,nvidia geforce,other,10,16,16,16,DDR5,11,1 TB SSD
+asus,198999,74,13th,intel,i9,13980HX,maximum performance,8 GB,nvidia geforce,other,24,32,16,16,DDR5,11,1 TB SSD
+acer,166990,68,13th,intel,i7,13700HX,maximum performance,8 GB,nvidia geforce,4060,16,24,16,16,other,11,512 GB SSD
+dell,220990,80,13th,intel,i7,13700HX,maximum performance,8 GB,nvidia geforce,4060,16,24,16,16,DDR5,11,1 TB SSD
+asus,109990,71,13th,intel,i9,13900H,maximum performance,4 GB,nvidia geforce,3050,14,20,16,16,DDR4,11,1 TB SSD
+dell,105299,71,6th,amd,9,6900HX,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,55689,60,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,2050,6,12,other,8,DDR4,11,512 GB SSD
+asus,75990,63,13th,intel,i5,13500H,maximum performance,4 GB,nvidia geforce,3050,12,16,16,16,DDR4,11,512 GB SSD
+dell,386490,83,13th,intel,i9,13900HK,unlocked,12 GB,nvidia geforce,other,14,20,16,32,other,11,1 TB SSD
+lenovo,64990,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,11,512 GB SSD
+lenovo,81000,68,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+acer,93566,62,6th,amd,5,6600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR5,11,1 TB SSD
+hp,107990,66,13th,intel,i7,13700H,maximum performance,6 GB,nvidia geforce,other,14,20,15.6,16,DDR4,11,512 GB SSD
+hp,49900,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+msi,72990,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,8,DDR4,11,512 GB SSD
+gigabyte,148990,74,13th,intel,i7,13700H,maximum performance,8 GB,nvidia geforce,4060,14,20,15.6,16,DDR5,11,1 TB SSD
+msi,389990,92,13th,intel,i9,13980HX,maximum performance,12 GB,nvidia geforce,other,24,32,other,64,DDR5,11,other
+acer,189990,70,13th,intel,i9,13900HX,maximum performance,8 GB,nvidia geforce,other,24,32,16,16,other,11,1 TB SSD
+asus,84910,72,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,1 TB SSD
+lenovo,32490,50,12th,intel,i3,1215U,ultra-low power,Integrated,Intel Integrated,other,6,8,15.6,8,DDR4,11,512 GB SSD
+hp,50990,63,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,349990,90,7th,amd,9,7945HX,maximum performance,16 GB,nvidia geforce,other,16,32,16,32,DDR5,11,other
+lenovo,33500,43,12th,intel,i3,1215U,ultra-low power,Integrated,Intel Integrated,other,6,8,15.6,8,DDR4,,512 GB SSD
+asus,299990,90,7th,amd,9,7945HX,maximum performance,12 GB,nvidia geforce,other,16,32,16,32,DDR5,11,other
+asus,275499,83,7th,amd,9,7945HX,maximum performance,12 GB,nvidia geforce,other,16,32,other,16,DDR5,11,1 TB SSD
+acer,71869,66,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,15.6,16,DDR4,11,512 GB SSD
+asus,70990,68,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+asus,284990,79,13th,intel,i9,13980HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+msi,100990,70,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,other,10,16,15.6,16,DDR5,11,1 TB SSD
+asus,67461,65,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+lenovo,117990,75,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,other,16,other,11,1 TB SSD
+msi,574990,93,13th,intel,i9,13980HX,maximum performance,16 GB,nvidia geforce,other,24,32,other,64,DDR5,11,other
+lenovo,53490,64,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,115990,72,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,67151,64,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,103990,65,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,other,8,16,other,16,DDR5,11,512 GB SSD
+infinix,73990,61,12th,intel,i9,12900H,maximum performance,,,other,14,20,15.6,16,other,11,512 GB SSD
+hp,49728,63,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,58990,68,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,16,DDR4,11,512 GB SSD
+hp,52990,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+hp,88407,66,5th,amd,5,5600H,maximum performance,6 GB,nvidia geforce,other,6,12,other,16,DDR4,11,512 GB SSD
+infinix,81978,68,12th,intel,i9,12900H,maximum performance,,,other,14,20,15.6,32,other,11,1 TB SSD
+lenovo,109990,69,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR5,11,1 TB SSD
+lenovo,37500,57,11th,intel,i3,1115G4,Graphics level,Integrated,Intel Integrated,other,2,4,15.6,8,DDR4,,other
+lenovo,413928,91,12th,intel,i9,12900HX,maximum performance,16 GB,nvidia geforce,other,16,24,16,32,DDR5,11,1 TB SSD
+msi,74990,65,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,15.6,8,DDR4,11,512 GB SSD
+acer,62499,66,12th,intel,i5,1240P,Performance core,4 GB,nvidia geforce,3050,12,16,15.6,16,DDR4,11,512 GB SSD
+gigabyte,100124,72,12th,intel,i5,12500H,maximum performance,6 GB,nvidia geforce,3060,12,16,15.6,16,DDR4,11,512 GB SSD
+acer,46990,60,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,15.6,8,DDR4,11,512 GB SSD
+asus,50500,59,10th,intel,i5,10200H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,11,512 GB SSD
+dell,130990,74,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,512 GB SSD
+asus,52990,61,5th,amd,5,5600H,maximum performance,Integrated,amd radeon,other,6,12,16,16,DDR4,11,512 GB SSD
+lenovo,144990,80,12th,intel,i7,12700H,maximum performance,8 GB,nvidia geforce,other,14,20,16,32,DDR5,11,1 TB SSD
+dell,122590,71,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,3060,10,16,15.6,16,DDR5,11,512 GB SSD
+dell,109471,69,6th,amd,9,6900HX,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,1 TB SSD
+dell,141990,69,12th,intel,i9,12900H,maximum performance,8 GB,nvidia geforce,other,14,20,15.6,16,other,11,1 TB SSD
+dell,108030,68,6th,amd,7,6800H,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,1 TB SSD
+dell,93831,68,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,512 GB SSD
+dell,116840,65,12th,intel,i9,12900H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,other,11,1 TB SSD
+asus,58500,60,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,1 TB SSD
+agb,60000,62,11th,intel,i7,1165G7,Graphics level,2 GB,nvidia geforce,other,4,8,15.6,32,DDR4,10,1 TB SSD
+hp,69990,61,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+lenovo,135940,77,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,512 GB SSD
+hp,59599,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,74990,64,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+hp,206999,84,12th,intel,i9,12900HX,maximum performance,16 GB,nvidia geforce,other,16,24,other,32,DDR5,11,other
+hp,93890,63,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,16,16,DDR5,11,512 GB SSD
+acer,319990,84,12th,intel,i9,12900H,maximum performance,8,nvidia geforce,other,14,20,15.6,32,DDR5,11,other
+acer,73039,59,6th,amd,5,6600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR5,11,1 TB SSD
+hp,108000,73,6th,amd,7,6800H,maximum performance,8 GB,amd radeon,other,8,16,other,16,DDR5,11,512 GB SSD
+lenovo,124990,73,6th,amd,7,6800H,maximum performance,8 GB,nvidia geforce,other,8,16,16,32,DDR5,11,1 TB SSD
+lenovo,73990,65,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,16,DDR4,11,512 GB SSD
+lenovo,95090,70,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,16,16,DDR4,11,512 GB SSD
+lenovo,99789,70,5th,amd,7,5800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,11,1 TB SSD
+msi,76990,65,5th,amd,7,5800H,maximum performance,8 GB,amd radeon,other,8,16,15.6,8,DDR4,11,512 GB SSD
+msi,45090,62,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+lenovo,49250,63,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,11,512 GB SSD
+msi,179990,74,12th,intel,i7,12700H,maximum performance,8 GB,nvidia geforce,other,14,20,other,16,DDR5,11,1 TB SSD
+asus,210999,81,12th,intel,i9,12900H,maximum performance,16 GB,nvidia geforce,other,14,20,15.6,32,DDR5,11,1 TB SSD
+asus,158999,74,6th,amd,9,6900HS​,high efficiency,8 GB,amd radeon,other,8,16,other,16,DDR5,11,1 TB SSD
+lenovo,89590,66,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+acer,55990,61,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+acer,69976,66,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,15.6,16,DDR4,11,512 GB SSD
+asus,52800,54,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,16,DDR4,11,512 GB SSD
+lenovo,72960,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,11,512 GB SSD
+asus,128400,74,6th,amd,9,6900HS​,high efficiency,6 GB,amd radeon,other,8,16,15.6,16,DDR5,11,1 TB SSD
+hp,85990,63,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,16,DDR4,11,512 GB SSD
+dell,331490,91,12th,intel,i9,12900HK,unlocked,6 GB,nvidia geforce,3060,14,20,other,32,DDR5,11,1 TB SSD
+lenovo,58900,65,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,,other
+hp,55490,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+asus,88896,71,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,16,DDR5,11,1 TB SSD
+asus,174990,75,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,16,16,DDR5,11,512 GB SSD
+msi,54990,63,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,10,512 GB SSD
+acer,53200,60,5th,amd,5,5500U,ultra-low power,4 GB,nvidia geforce,1650,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,79990,62,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,8,DDR4,11,512 GB SSD
+lenovo,65650,66,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,8,DDR4,,other
+acer,57500,63,12th,intel,i5,1240P,Performance core,4 GB,nvidia geforce,1650,12,16,15.6,16,other,11,512 GB SSD
+asus,99990,73,6th,amd,7,6800HS,high efficiency,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,119990,71,6th,amd,7,6800HS,high efficiency,8 GB,amd radeon,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,129990,75,6th,amd,9,6900HS​,high efficiency,8 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,311389,84,6th,amd,9,6900HX,maximum performance,16 GB,nvidia geforce,other,8,16,16,32,DDR5,11,other
+asus,94990,78,6th,amd,9,6900HS​,high efficiency,8 GB,amd radeon,other,8,16,other,32,DDR5,11,1 TB SSD
+asus,361990,83,6th,amd,9,6900HX,maximum performance,16 GB,nvidia geforce,other,8,16,16,32,DDR5,11,other
+msi,56990,62,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,512 GB SSD
+hp,48890,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,60238,66,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+acer,449999,90,11th,intel,i9,11980HK,unlocked,16 GB,nvidia geforce,other,8,16,other,64,DDR4,,other
+hp,74100,57,12th,intel,i5,1235U,ultra-low power,Integrated,Intel Integrated,other,10,12,other,8,DDR4,11,512 GB SSD
+hp,57999,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,1650,8,12,15.6,8,DDR4,11,512 GB SSD
+hp,84990,64,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,16,DDR4,11,512 GB SSD
+asus,87936,69,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,11,1 TB SSD
+hp,67500,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,8,DDR4,11,512 GB SSD
+asus,84749,64,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR4,11,512 GB SSD
+dell,93003,68,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,512 GB SSD
+msi,414990,88,12th,intel,i7,12700H,maximum performance,16 GB,nvidia geforce,other,14,20,other,32,DDR5,11,other
+dell,74990,68,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,512 GB SSD
+asus,51990,62,5th,amd,5,5600H,maximum performance,Integrated,amd radeon,other,6,12,16,16,DDR4,11,512 GB SSD
+msi,122300,71,11th,intel,i7,11800H,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,1 TB SSD
+hp,77999,68,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,8,DDR4,11,512 GB SSD
+asus,57500,62,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+acer,54299,61,12th,intel,i5,1240P,Performance core,4 GB,nvidia geforce,2050,12,16,15.6,8,DDR4,11,512 GB SSD
+lenovo,94990,68,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+acer,54800,64,12th,intel,i5,1240P,Performance core,4 GB,nvidia geforce,1650,12,16,15.6,8,DDR4,11,512 GB SSD
+acer,119499,71,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,1 TB SSD
+asus,116000,71,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,other,16,DDR5,11,1 TB SSD
+asus,102000,75,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,1 TB SSD
+asus,94990,70,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,other,16,DDR5,11,512 GB SSD
+asus,94990,65,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,86399,60,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,10,512 GB SSD
+msi,48990,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+lenovo,61989,64,11th,intel,i5,11320H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,16,DDR4,11,512 GB SSD
+asus,48990,57,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,11,512 GB SSD
+asus,92999,60,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,20,,15.6,16,DDR5,11,1 TB SSD
+dell,68890,66,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,12,16,15.6,8,DDR5,11,512 GB SSD
+asus,107991,70,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,1 TB SSD
+dell,95999,68,11th,intel,i5,11260H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+dell,68700,64,11th,intel,i5,11260H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+dell,102363,66,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,15.6,16,DDR5,11,512 GB SSD
+hp,105800,71,5th,amd,7,5800H,maximum performance,6 GB,nvidia geforce,3060,8,16,other,16,DDR4,11,512 GB SSD
+asus,208999,75,12th,intel,i9,12900H,maximum performance,8 GB,nvidia geforce,other,14,20,15.6,32,DDR5,11,1 TB SSD
+acer,74990,60,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+dell,186000,74,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,16,16,DDR4,11,1 TB SSD
+asus,98990,68,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,8,20,15.6,16,DDR5,11,512 GB SSD
+hp,60480,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,other,6,12,other,8,DDR4,11,512 GB SSD
+hp,76899,63,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+acer,69999,63,12th,intel,i5,12500H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,11,512 GB SSD
+asus,86399,68,5th,amd,9,5900HX,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,108990,65,5th,amd,7,5800H,maximum performance,8 GB,amd radeon,other,8,16,other,16,DDR4,,1 TB SSD
+dell,90999,59,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+asus,47990,61,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,11,512 GB SSD
+lenovo,62990,63,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,8,DDR4,11,512 GB SSD
+msi,69999,64,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+asus,80490,65,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,85389,68,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,1 TB SSD
+asus,77990,64,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR5,11,512 GB SSD
+lenovo,105989,70,5th,amd,7,5800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,11,1 TB SSD
+hp,81500,62,11th,intel,i7,11370H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,16,DDR4,11,512 GB SSD
+hp,66575,60,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,70766,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+hp,59000,60,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+msi,144990,73,11th,intel,i9,11900H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,10,1 TB SSD
+asus,86500,64,11th,intel,i5,11300H,maximum performance,6 GB,nvidia geforce,3060,4,8,15.6,16,DDR4,11,512 GB SSD
+lenovo,55500,57,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+hp,54720,56,5th,amd,5,5600H,maximum performance,4 GB,amd radeon,other,6,12,other,8,DDR4,10,512 GB SSD
+acer,76050,64,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,,other
+dell,73900,62,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,10,512 GB SSD
+acer,91990,69,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3060,8,16,15.6,16,DDR4,10,other
+dell,97500,68,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,512 GB SSD
+dell,90499,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,512 GB SSD
+lenovo,124990,59,11th,intel,i7,11800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,11,1 TB SSD
+lenovo,69990,55,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,512 GB SSD
+hp,65990,61,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,8,DDR4,10,512 GB SSD
+msi,85990,62,,amd,,5800H,maximum performance,8 GB,amd radeon,other,6,,15.6,16,DDR4,10,1 TB SSD
+lenovo,53000,60,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,512 GB SSD
+lenovo,57990,60,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,3050,4,8,15.6,8,DDR4,10,512 GB SSD
+asus,76500,60,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,10,512 GB SSD
+lenovo,94990,66,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,10,512 GB SSD
+asus,54990,62,10th,intel,i7,10870H,maximum performance,4 GB,nvidia geforce,1650,8,16,15.6,8,DDR4,10,512 GB SSD
+hp,76500,66,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,8,DDR4,,other
+asus,89990,71,5th,amd,9,5900HS,high efficiency,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,10,1 TB SSD
+asus,80490,61,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,1650,8,16,15.6,8,DDR4,10,512 GB SSD
+asus,113990,64,5th,amd,9,5900H,maximum performance,4 GB,nvidia geforce,other,8,,15.6,16,DDR4,10,1 TB SSD
+hp,58000,65,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,,other
+asus,144990,70,5th,amd,9,5900HX,maximum performance,12 GB,amd radeon,other,8,16,15.6,16,DDR4,10,1 TB SSD
+acer,95490,70,11th,intel,i7,11800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR4,10,1 TB SSD
+msi,124191,73,11th,intel,i7,11800H,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,1 TB SSD
+hp,58559,62,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+lenovo,104990,69,5th,amd,7,5800H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,10,1 TB SSD
+hp,80990,69,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,10,512 GB SSD
+asus,198990,72,5th,amd,9,5900HX,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,1 TB SSD
+asus,64490,61,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,10,512 GB SSD
+asus,55600,62,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,1 TB SSD
+asus,149990,79,5th,amd,9,5980HS,high efficiency,4 GB,nvidia geforce,1650,8,16,other,32,other,10,1 TB SSD
+asus,74555,64,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,1 TB SSD
+asus,76990,61,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,1 TB SSD
+asus,87990,64,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,1 TB SSD
+asus,102100,70,5th,amd,9,5900HS,high efficiency,4 GB,nvidia geforce,1650,8,16,other,16,other,10,1 TB SSD
+hp,53999,57,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+hp,57750,61,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+hp,57750,61,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+lenovo,56676,65,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,,other
+asus,112990,74,5th,amd,9,5900HS,high efficiency,4 GB,nvidia geforce,1650,8,16,other,16,other,10,1 TB SSD
+asus,57599,61,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,512 GB SSD
+asus,120000,72,11th,intel,i7,11370H,maximum performance,6 GB,nvidia geforce,3060,4,8,15.6,16,DDR4,10,1 TB SSD
+asus,51500,63,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,512 GB SSD
+acer,89990,70,10th,intel,i7,10870H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR4,,other
+acer,89000,66,5th,amd,5,5600H,maximum performance,6 GB,nvidia geforce,3060,6,12,15.6,16,DDR4,,other
+acer,51500,56,,amd,,5600H,maximum performance,4 GB,nvidia geforce,1650,6,,15.6,8,DDR4,,other
+asus,68071,64,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,other,8,DDR4,10,512 GB SSD
+lenovo,58900,61,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+dell,169990,70,10th,intel,i7,10750H,maximum performance,6 GB,nvidia geforce,other,6,12,15.6,16,DDR4,10,512 GB SSD
+asus,87390,70,10th,intel,i7,10750H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,,other
+hp,51000,57,,amd,5,3550H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,other
+asus,58368,66,9th,intel,i5,9300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,,other
+hp,95800,70,9th,intel,i7,9750H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,,other
+asus,64990,65,9th,intel,i5,9300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,,other
+asus,349999,88,8th,intel,i9,8950HK,unlocked,8 GB,nvidia geforce,other,6,12,other,64,DDR4,10,512 GB SSD
+razer,127999,73,8th,intel,i7,8750H,maximum performance,6 GB,nvidia geforce,other,6,12,15.6,16,DDR4,,other
+hp,68071,65,7th,intel,i5,7300HQ,quad core,4 GB,nvidia geforce,other,4,4,15.6,8,DDR4,,other
+hp,68999,68,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+msi,284990,86,13th,intel,i9,13980HX,maximum performance,12 GB,nvidia geforce,other,24,32,16,32,DDR5,11,1 TB SSD
+msi,109990,73,12th,intel,i7,12650H,maximum performance,8 GB,nvidia geforce,4060,10,16,15.6,16,DDR5,11,512 GB SSD
+msi,95000,66,7th,amd,7,7735HS,high efficiency,6 GB,nvidia geforce,3050,8,16,15.6,16,DDR5,11,512 GB SSD
+hp,56999,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+dell,102490,69,13th,intel,i7,13650HX,maximum performance,6 GB,nvidia geforce,3050,14,,15.6,16,DDR5,11,512 GB SSD
+msi,72990,65,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,8,DDR4,11,512 GB SSD
+msi,82990,68,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,8,DDR4,11,512 GB SSD
+asus,66800,65,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+hp,103990,65,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,other,8,16,other,16,DDR5,11,512 GB SSD
+hp,52990,65,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,1650,6,12,other,8,DDR4,11,512 GB SSD
+lenovo,159000,74,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,16,16,DDR5,11,1 TB SSD
+gigabyte,100124,72,12th,intel,i5,12500H,maximum performance,6 GB,nvidia geforce,3060,12,16,15.6,16,DDR4,11,512 GB SSD
+dell,106990,71,12th,intel,i7,12650H,maximum performance,6 GB,nvidia geforce,3060,10,16,15.6,16,DDR5,11,512 GB SSD
+hp,136990,66,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,other,16,DDR5,11,1 TB SSD
+hp,93890,63,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,16,16,DDR5,11,512 GB SSD
+msi,116850,71,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,other,8,16,16,16,DDR4,10,512 GB SSD
+gigabyte,188925,68,12th,intel,i7,12700H,maximum performance,8 GB,nvidia geforce,other,14,20,15.6,16,DDR4,11,other
+agb,55000,59,11th,intel,i7,1165G7,Graphics level,2 GB,nvidia geforce,other,4,8,15.6,16,DDR4,10,1 TB SSD
+asus,207990,71,6th,amd,9,6900HX,maximum performance,8 GB,nvidia geforce,other,8,16,other,16,DDR5,11,1 TB SSD
+asus,158999,74,6th,amd,9,6900HS​,high efficiency,8 GB,amd radeon,other,8,16,other,16,DDR5,11,1 TB SSD
+acer,142990,73,12th,intel,i9,12900H,maximum performance,6 GB,nvidia geforce,3060,14,20,15.6,16,DDR5,11,1 TB SSD
+lenovo,89590,66,12th,intel,i5,12450H,maximum performance,4 GB,nvidia geforce,3050,8,12,15.6,16,DDR4,11,512 GB SSD
+gigabyte,209890,74,12th,intel,i7,12700H,maximum performance,8 GB,nvidia geforce,other,14,20,15.6,16,DDR4,11,1 TB SSD
+asus,128400,74,6th,amd,9,6900HS​,high efficiency,6 GB,amd radeon,other,8,16,15.6,16,DDR5,11,1 TB SSD
+hp,105823,62,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,8,DDR5,11,512 GB SSD
+asus,174990,75,12th,intel,i7,12700H,maximum performance,6 GB,nvidia geforce,3060,14,20,16,16,DDR5,11,512 GB SSD
+hp,78990,62,12th,intel,i7,12650H,maximum performance,4 GB,nvidia geforce,3050,10,16,15.6,8,DDR4,11,512 GB SSD
+acer,449999,90,11th,intel,i9,11980HK,unlocked,16 GB,nvidia geforce,other,8,16,other,64,DDR4,,other
+dell,163990,70,6th,amd,7,6800H,maximum performance,6 GB,nvidia geforce,3060,8,16,15.6,16,DDR5,11,512 GB SSD
+hp,85310,60,6th,amd,5,6600H,maximum performance,4 GB,nvidia geforce,3050,6,12,other,8,DDR5,11,512 GB SSD
+asus,86399,60,6th,amd,7,6800H,maximum performance,4 GB,nvidia geforce,3050,8,16,other,16,DDR4,10,512 GB SSD
+hp,81800,66,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,other,8,DDR4,11,512 GB SSD
+asus,92999,60,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,20,,15.6,16,DDR5,11,1 TB SSD
+acer,98500,71,12th,intel,i7,12700H,maximum performance,4 GB,nvidia geforce,3050,14,20,15.6,16,DDR4,,512 GB SSD
+msi,141100,72,11th,intel,i7,11800H,maximum performance,4 GB,nvidia geforce,other,8,16,16,16,DDR4,10,1 TB SSD
+msi,173617,57,11th,intel,i7,1195G7,Graphics level,4 GB,nvidia geforce,3050,4,8,16,16,other,10,1 TB SSD
+hp,108990,65,5th,amd,7,5800H,maximum performance,8 GB,amd radeon,other,8,16,other,16,DDR4,,1 TB SSD
+hp,71999,60,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,other,6,12,other,8,DDR4,10,512 GB SSD
+lenovo,70790,59,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+dell,90999,59,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,11,512 GB SSD
+dell,78490,56,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,16,DDR4,11,512 GB SSD
+asus,50930,61,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,11,512 GB SSD
+asus,69990,55,11th,intel,i5,11300H,maximum performance,4 GB,nvidia geforce,other,4,8,15.6,8,other,10,1 TB SSD
+msi,69999,64,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+msi,142990,73,11th,intel,i9,11900H,maximum performance,6 GB,nvidia geforce,3060,8,16,16,16,DDR4,10,1 TB SSD
+asus,86500,64,11th,intel,i5,11300H,maximum performance,6 GB,nvidia geforce,3060,4,8,15.6,16,DDR4,11,512 GB SSD
+lenovo,49790,57,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,11,512 GB SSD
+acer,75050,64,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,,other
+dell,90499,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,512 GB SSD
+dell,88700,63,5th,amd,7,5800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,16,DDR4,10,512 GB SSD
+lenovo,69990,55,5th,amd,5,5600H,maximum performance,4 GB,nvidia geforce,3050,6,12,15.6,8,DDR4,10,512 GB SSD
+asus,80490,61,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,1650,8,16,15.6,8,DDR4,10,512 GB SSD
+msi,124191,73,11th,intel,i7,11800H,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,1 TB SSD
+asus,105990,64,4th,amd,7,4800H,maximum performance,4 GB,nvidia geforce,3050,8,16,15.6,8,DDR4,10,1 TB SSD
+lenovo,58990,60,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+asus,74000,64,11th,intel,i5,11400H,maximum performance,4 GB,nvidia geforce,3050,6,12,other,8,DDR4,10,1 TB SSD
+hp,56064,57,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+hp,57750,61,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,other,6,12,15.6,8,DDR4,10,512 GB SSD
+asus,102100,70,5th,amd,9,5900HS,high efficiency,4 GB,nvidia geforce,1650,8,16,other,16,other,10,1 TB SSD
+acer,69990,45,,amd,,4600H,maximum performance,4 GB,nvidia geforce,1650,6,,15.6,8,DDR4,10,512 GB SSD
+lenovo,52500,59,4th,amd,5,4600H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,other
+lenovo,53000,62,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,512 GB SSD
+asus,120000,72,11th,intel,i7,11370H,maximum performance,6 GB,nvidia geforce,3060,4,8,15.6,16,DDR4,10,1 TB SSD
+msi,73299,66,10th,intel,i7,10750H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,10,512 GB SSD
+asus,89800,65,10th,intel,i5,10300H,maximum performance,4 GB,nvidia geforce,1650,4,8,15.6,8,DDR4,10,512 GB SSD
+acer,69990,64,9th,intel,i5,9300H,maximum performance,4 GB,nvidia geforce,other,4,8,other,8,DDR4,,other
+dell,75500,63,4th,amd,5,4600H,maximum performance,6 GB,amd radeon,other,6,12,15.6,8,DDR4,10,512 GB SSD
+lenovo,151990,75,10th,intel,i7,10875H,maximum performance,8 GB,nvidia geforce,other,8,16,15.6,16,DDR4,10,1 TB SSD
+lenovo,46500,48,8th,intel,i5,8250U,ultra-low power,Integrated,Intel Integrated,other,4,8,other,4,DDR4,,other
+msi,109990,61,9th,intel,i7,9750H,maximum performance,6 GB,nvidia geforce,other,6,12,other,8,other,,other
+hp,95800,70,9th,intel,i7,9750H,maximum performance,4 GB,nvidia geforce,1650,6,12,15.6,8,DDR4,,other
