@@ -1,54 +1,92 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Análise Econômica de Laptops</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <style>
         body {
-            background-color: #f8f9fa;
+            background-color: #7da8d3;
             padding-top: 30px;
             font-family: 'Segoe UI', sans-serif;
         }
+
         .plot-container {
             margin-bottom: 50px;
             padding: 20px;
             border-radius: 12px;
             background-color: #ffffff;
-            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
         }
+
         .plot-title {
             font-weight: bold;
             font-size: 1.3rem;
             margin-bottom: 15px;
         }
+
         .plot-img {
             width: 100%;
             height: auto;
             border-radius: 8px;
             border: 1px solid #dee2e6;
         }
+
         .plot-text {
             margin-top: 15px;
-            font-size: 0.95rem;
+            font-size: 1.95rem;
             color: #555;
         }
     </style>
 </head>
+
 <body>
 
-<div class="container">
-    <h1 class="mb-4 text-center">Painel Econômico do Mercado de Laptops</h1>
+    <div class="container">
+        <div class="plot-container">
+            <h1>Introdução</h1>
+            <p class="plot-text">
+                O mercado de componentes de hardware, especialmente de processadores (CPUs) e placas de vídeo (GPUs),
+                desempenha um papel fundamental na indústria da tecnologia. A análise de sua estrutura é essencial para
+                compreender o grau de competitividade, as estratégias de precificação e a influência das marcas na
+                formação de preços e escolhas dos consumidores. Este trabalho tem como objetivo investigar, por meio de
+                visualizações gráficas, as características econômicas que definem esse setor, como a presença de
+                oligopólios, a distribuição de preços entre marcas e a concentração de mercado. A partir de dados
+                coletados sobre diversos produtos, são exploradas evidências visuais que ajudam a identificar padrões de
+                dominação, diferenciação e segmentação entre os principais players da indústria.
+            </p>
 
-    {% for path, text in plot_texts %}
-    <div class="plot-container">
-        <div class="plot-title">{{ loop.index }}. Análise Gráfica</div>
-        <img src="{{ url_for('static', filename=path) }}" class="plot-img" alt="Gráfico {{ loop.index }}">
-        <p class="plot-text">{{ text }}</p>
+        </div>
     </div>
-    {% endfor %}
 
-</div>
+    <div class="container">
+        <h1 class="mb-4 text-center">Painel Econômico do Mercado de Laptops</h1>
 
+        {% for path, text in plot_texts %}
+        <div class="plot-container">
+            <div class="plot-title">{{ loop.index }}. Análise Gráfica</div>
+            <img src="{{ url_for('static', filename=path) }}" class="plot-img" alt="Gráfico {{ loop.index }}">
+            <p class="plot-text">{{ text }}</p>
+        </div>
+        {% endfor %}
+
+    </div>
+
+    <div class="container">
+        <div class="plot-container">
+            <h1>Conclusão</h1>
+            <p class="plot-text">A análise gráfica dos dados sobre CPUs e GPUs revelou aspectos marcantes da estrutura
+                de mercado desses componentes.
+                A forte presença de poucas marcas dominantes, como Intel, AMD e NVIDIA, reforça a característica de
+                oligopólio, sendo o duopólio entre Intel e AMD especialmente evidente no segmento de processadores.
+                A variação nos preços médios por marca e a concentração de modelos disponíveis indicam estratégias de
+                diferenciação e posicionamento premium por parte de algumas fabricantes. Esses resultados confirmam que
+                o mercado de hardware apresenta uma dinâmica de competição limitada,
+                mas com significativa segmentação, típica de um oligopólio diferenciado, onde a marca e a tecnologia
+                exercem grande influência nas decisões de compra.</p>
+        </div>
+    </div>
 </body>
+
 </html>
