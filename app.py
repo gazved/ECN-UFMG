@@ -10,7 +10,7 @@ import base64
 
 app = Flask(__name__)
 
-# Crie um diretório para armazenar as imagens temporárias
+
 UPLOAD_FOLDER = 'static/plots'
 if not os.path.exists(UPLOAD_FOLDER):
     os.makedirs(UPLOAD_FOLDER)
